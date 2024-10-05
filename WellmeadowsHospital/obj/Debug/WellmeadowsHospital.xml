@@ -1,0 +1,1936 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WellmeadowsHospital
+</name>
+</assembly>
+<members>
+<member name="T:WellmeadowsHospital.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_graph_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_hospital_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_hospital_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_hospital_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_logout_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_logout_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_logout_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_logout_50__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_medical_bag_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_paperwork_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_patient_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_shopping_cart_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_staff_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.icons8_ward_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.vecteezy_round_medical_cross_symbol_on_transparent_background_17177954">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WellmeadowsHospital.My.Resources.Resources.vecteezy_woman_nurse_holding_clipboard_31718404">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BED_LISTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ToDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.AppointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Order_DetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ReceiveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_ByDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_FormDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Order_DetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ReceiveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_ByDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_FormDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Local_DoctorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Next_of_KinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PatientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Patients_AllocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PositionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribedDrugDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.QualificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Salary_ScaleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.WardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_Allocation_OPDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Work_ExperienceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exp_ViewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Qualification_ViewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_list2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.STAFF_SEARCHDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_App2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ExamDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exam2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDSearchDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Allo_listDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_AllocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.InPatientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Bed_FormDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_List_3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Charge_NurseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocation2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppDrugOrder2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppItemOrder2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderDrugDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugReceiveStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemReceiveStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceiveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionStatus2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatus2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionReceive2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceive2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientDashboardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientSexDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_Staff2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemExpensesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrder2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugExpensesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetail2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_WorkEXPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_IPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_OPDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientAppDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.LatestPatientAppointmentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PDashboardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReport2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BED_LISTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ToRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.AppointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Order_DetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ReceiveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_ByRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_FormRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Order_DetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ReceiveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_ByRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_FormRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Local_DoctorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Next_of_KinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PatientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Patients_AllocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PositionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribedDrugRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.QualificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Salary_ScaleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.WardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_Allocation_OPDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Work_ExperienceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exp_ViewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Qualification_ViewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_list2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.STAFF_SEARCHRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_App2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ExamRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exam2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDSearchRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Allo_listRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_AllocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.InPatientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Bed_FormRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_List_3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Charge_NurseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocation2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppDrugOrder2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppItemOrder2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderDrugRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugReceiveStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemReceiveStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceiveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionStatus2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatus2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionReceive2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceive2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientDashboardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientSexRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_Staff2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemExpensesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrder2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugExpensesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetail2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_WorkEXPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_IPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_OPDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientAppRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.LatestPatientAppointmentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PDashboardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReport2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BED_LISTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Allocation_ToRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.AppointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.BedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Order_DetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ReceiveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_ByRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_Requisitions_FormRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Order_DetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ReceiveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_ByRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_Requisitions_FormRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Local_DoctorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Next_of_KinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PatientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Patients_AllocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PositionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribedDrugRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.QualificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Salary_ScaleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.WardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_Allocation_OPDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Work_ExperienceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exp_ViewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Qualification_ViewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_list2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.STAFF_SEARCHRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_AppRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_App2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ExamRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Exam2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Drug_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Item_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDSearchRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.OPDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Allo_listRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Ward_AllocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.InPatientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Bed_FormRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Waiting_List_3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.Staff_Charge_NurseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PAllocation2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppDrugOrder2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppItemOrder2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderDrugRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.SuppOrderItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugReceiveStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemReceiveStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceiveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionStatus2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionStatus2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.DrugRequisitionReceive2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.ItemRequisitionReceive2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientDashboardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientSexRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_Staff2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemExpensesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemOrder2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugExpensesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_StaffDetail2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_WorkEXPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_IPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_OPDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_DrugReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_ItemReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PatientAppRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.LatestPatientAppointmentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PDashboardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.View_PSB3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet.PrescribeReport2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.BED_LISTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Allocation_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Allocation_ToTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.AppointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.BedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.DrugTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_Order_DetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_ReceiveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_Requisitions_ByTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_Requisitions_FormTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_Order_DetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_ReceiveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_Requisitions_ByTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_Requisitions_FormTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Local_DoctorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Next_of_KinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PatientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Patients_AllocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PositionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PrescribeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PrescribedDrugTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.QualificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Salary_ScaleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.WardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Ward_Allocation_OPDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Work_ExperienceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Exp_ViewTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Qualification_ViewTableAdapter_FillByStaffName">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_list2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.STAFF_SEARCHTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_AppointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_AppTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_App2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ExamTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Exam2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Drug_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Item_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.OPDSearchTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.OPDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_Allo_listTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Ward_AllocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.InPatientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Bed_FormTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Waiting_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Waiting_List_3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.Staff_Charge_NurseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PAllocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PAllocation2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.SuppDrugOrder2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.SuppItemOrder2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.SuppOrderDrugTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.SuppOrderItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.DrugReceiveStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemReceiveStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemRequisitionStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemRequisitionReceiveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.DrugRequisitionStatus2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemRequisitionStatus2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.DrugRequisitionReceive2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.ItemRequisitionReceive2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PatientDashboardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PatientSexTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_Staff2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_ItemExpensesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_ItemOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_ItemOrder2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_DrugExpensesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_DrugOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_StaffDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_StaffDetail2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_WorkEXPTableAdapter_FillByStaffName">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_IPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_OPDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PSBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PSB2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_DrugReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_ItemReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PatientAppTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.LatestPatientAppointmentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PDashboardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.View_PSB3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PrescribeReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.PrescribeReport2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WellmeadowsHospital.Wellmeadows_HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WellmeadowsHospital.Wellmeadows_HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WellmeadowsHospital.Wellmeadows_HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.UpdateAll(WellmeadowsHospital.Wellmeadows_HospitalDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WellmeadowsHospital.Wellmeadows_HospitalDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
